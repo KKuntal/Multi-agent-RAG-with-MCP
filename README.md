@@ -1,3 +1,4 @@
+
 # Agentic RAG Chatbot
 
 Agentic RAG Chatbot is an intelligent system for answering questions over multi-format documents using Retrieval-Augmented Generation (RAG) and a multi-agent architecture. It supports PDF, Word, PowerPoint, CSV, and text/markdown files. The system parses documents, splits them into chunks, generates embeddings with SentenceTransformers, and stores them in a FAISS vector index for semantic search.

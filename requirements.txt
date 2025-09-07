@@ -1,0 +1,15 @@
+streamlit
+google-genai
+faiss-cpu
+sentence-transformers
+PyPDF2
+python-pptx
+python-docx
+pandas
+openpyxl
+chromadb
+pydantic
+typing-extensions
+python-dotenv
+pathlib
+uuid
